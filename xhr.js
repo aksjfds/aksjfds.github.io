@@ -1,3 +1,6 @@
+---
+permalink: /xhr.js
+---
 (function(_0x94de3, _0x30bce7) {
     var _0x342111 = _0x3f1c
       , _0x41ca4c = _0x94de3();
